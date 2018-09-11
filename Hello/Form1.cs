@@ -19,7 +19,7 @@ namespace Hello
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hello "+txtBxName1.Text+" and "+txtBxName2.Text);
+            MessageBox.Show("Hello "+txtBxName1.Text+" there are "+txtBxName2.Text+" days till Christmas");
         }
     }
 }
