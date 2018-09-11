@@ -19,7 +19,7 @@ namespace Hello
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hello World, 2 years to go "+txtBxName.Text);
+            MessageBox.Show("Goodbye "+txtBxName.Text);
         }
     }
 }
