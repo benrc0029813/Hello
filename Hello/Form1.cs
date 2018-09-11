@@ -17,9 +17,9 @@ namespace Hello
             InitializeComponent();
         }
 
-        private void button1_Click{object sender. EventArgs e}
+        private void button1_Click(object sender, EventArgs e)
         {
-            messagebox*slow'Hello World, 2 years to go':
-        
+            MessageBox.Show("Hello World, 2 years to go");
+        }
     }
 }
